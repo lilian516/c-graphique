@@ -1,0 +1,3 @@
+C:\Users\lalix\Downloads\2048-C--main\2048-C--main\Projet 2048 C++\x64\Debug\Projet 2048 C++.exe
+D:\projet Gtech\C++\2048-C--main\2048-C--main\Projet 2048 C++\x64\Debug\Projet 2048 C++.exe
+C:\Users\lilia\OneDrive\Documents\Gtech2\C++\2048-C--main\2048-C--main\Projet 2048 C++\x64\Debug\Projet 2048 C++.exe
